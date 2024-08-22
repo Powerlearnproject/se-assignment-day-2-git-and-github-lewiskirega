@@ -2,26 +2,26 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
     
   
-  Version control systems (VCS) are tools designed to track changes to files and manage different versions of a project. Key concepts include:
-  
-  Commits: A commit is a snapshot of the project at a specific point in time, with a unique identifier and a message describing the changes.
-  Branches: Separate lines of development allowing isolated work on different features or fixes.
-  Merges: Integrate changes from different branches into the main codebase.
-  History: A record of all changes, enabling review and reversion if needed.
-  GitHub:
-  
-  GitHub is a platform for hosting Git repositories and facilitating collaboration. It is popular due to:
-  
-  Ease of Use: Provides a user-friendly interface for Git.
-  Collaboration Features: Includes tools for code reviews, pull requests, and issue tracking.
-  Integration: Connects with various development tools and services.
-  Maintaining Project Integrity:
-  
-  Version control helps maintain project integrity by:
-  
-  Tracking Changes: Each change is documented, making it easy to trace and revert if needed.
-  Branching: Allows isolated development of features or fixes, preventing disruption of the main project.
-  Code Review: Facilitates peer review through pull requests, ensuring code quality.
+      Version control systems (VCS) are tools designed to track changes to files and manage different versions of a project. Key concepts include:
+      
+      Commits: A commit is a snapshot of the project at a specific point in time, with a unique identifier and a message describing the changes.
+      Branches: Separate lines of development allowing isolated work on different features or fixes.
+      Merges: Integrate changes from different branches into the main codebase.
+      History: A record of all changes, enabling review and reversion if needed.
+      GitHub:
+      
+      GitHub is a platform for hosting Git repositories and facilitating collaboration. It is popular due to:
+      
+      Ease of Use: Provides a user-friendly interface for Git.
+      Collaboration Features: Includes tools for code reviews, pull requests, and issue tracking.
+      Integration: Connects with various development tools and services.
+      Maintaining Project Integrity:
+      
+      Version control helps maintain project integrity by:
+      
+      Tracking Changes: Each change is documented, making it easy to trace and revert if needed.
+      Branching: Allows isolated development of features or fixes, preventing disruption of the main project.
+      Code Review: Facilitates peer review through pull requests, ensuring code quality.
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
